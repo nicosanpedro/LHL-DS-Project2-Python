@@ -27,9 +27,9 @@
 1. Declare and initialize SQLite3 connection into an object.
 2. Declare and initialize SQLite3 querry cursor into an object.
 3. Create a table template by sotring the querry as a string in a variable.
-   3.1 Set table name
-   3.2 Set the data type
-   3.3 Set the constraints
+   - 3.1 Set table name
+   - 3.2 Set the data type
+   - 3.3 Set the constraints
 4. Take all unique rows from all datframes and copy it into the designated table for each dataframe.
    
 ### V. Linear Regression Model
