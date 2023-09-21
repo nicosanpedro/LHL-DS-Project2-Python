@@ -49,3 +49,7 @@
 
 ## Future Goals
 1. Be on time.
+
+
+### Scratch Folder 
+- contains files which are irrelevant to the project but was used to demonstrate some concepts.
